@@ -1,0 +1,26 @@
+*{
+  box-sizing: border-box;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
+.header-img{
+  width: 25vw;
+}
+
+.whole-page{
+  width: 100vw;
+}
+
+h1{
+  font-family: 'Lobster';
+  font-size: 24px;
+  color: cornflowerblue;
+}
+
+h3{
+  font-family: 'Lobster';
+  font-size: 18px;
+  color: darkgoldenrod;
+  
+}
